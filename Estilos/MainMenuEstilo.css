@@ -1,0 +1,12 @@
+body{
+    background-color: orange;
+    font: sans-serif;
+    color: blue;
+    font-size: 150%;
+    font-weight: bold;
+}
+.logo{
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
