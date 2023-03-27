@@ -1,0 +1,21 @@
+body{
+    background-color: cornflowerblue;
+    font: sans-serif;
+}
+.encabezado{
+    position: relative;
+    top: 50px;
+}
+.IniciarSesion{
+    font-size: 150%;
+    font-weight: bold;
+}
+.login{
+    position: relative;
+    top: 75px;
+    background-color: orange;
+}
+.col-centered{
+    margin: 0 auto;
+    float: none;
+}
