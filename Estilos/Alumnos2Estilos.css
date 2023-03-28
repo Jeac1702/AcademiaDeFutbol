@@ -1,0 +1,67 @@
+body{
+    background-color: white;
+    font: sans-serif;
+    color: blue;
+    font-size: 150%;
+    font-weight: bold;
+}
+.logo{
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+.Avisos{
+    color: red;
+}
+.usuario{
+    background-color: grey;
+    top: 0px;
+    right: 150px;
+    width: 100;
+    height: 100;
+}
+h4{
+    color: grey;
+    font-weight: bold;
+}
+span{
+    color:green;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th {
+    background-color: #ddd;
+    font-weight: bold;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+
+  .agregarAlumnos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    outline: none !important;
+
+  }
+  .boton{
+    outline: none !important;
+
+  }
+
+  .Alum{
+    border: none;
+    max-width: 77.5%;
+  border-bottom: 2px solid black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  }
+ 
