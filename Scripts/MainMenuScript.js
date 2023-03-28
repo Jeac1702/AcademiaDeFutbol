@@ -1,0 +1,9 @@
+$(function(){
+    $("#u1").hide();
+    $("#u2").click(function(){
+        $("#u1").show();
+    });
+    $("#u3").click(function(){
+        $("#u1").hide();
+    });
+});
